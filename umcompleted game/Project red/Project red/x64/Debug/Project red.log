@@ -1,0 +1,42 @@
+﻿  colision.cpp
+E:\code\Project red\ECS\collidercomponent.h(32,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'colision.cpp')
+  
+E:\code\Project red\ECS\collidercomponent.h(33,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'colision.cpp')
+  
+E:\code\Project red\ECS\loadECS.h(90,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'colision.cpp')
+  E:\code\Project red\ECS\loadECS.h(90,33):
+  the template instantiation context (the oldest one first) is
+  	E:\code\Project red\titleComponent.h(49,9):
+  	see reference to function template instantiation 'T &Entity::addcomponent<TransformComponent,int&,int&,int&,int&,int>(int &,int &,int &,int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  
+  game.cpp
+E:\code\Project red\ECS\collidercomponent.h(32,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+E:\code\Project red\ECS\collidercomponent.h(33,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+E:\code\Project red\ECS\loadECS.h(90,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  E:\code\Project red\ECS\loadECS.h(90,33):
+  the template instantiation context (the oldest one first) is
+  	E:\code\Project red\titleComponent.h(49,9):
+  	see reference to function template instantiation 'T &Entity::addcomponent<TransformComponent,int&,int&,int&,int&,int>(int &,int &,int &,int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  
+  main.cpp
+  map.cpp
+  objgame.cpp
+  textureM.cpp
+  Generating Code...
+  Project red.vcxproj -> E:\code\Project red\x64\Debug\Project red.exe
